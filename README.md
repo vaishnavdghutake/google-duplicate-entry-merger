@@ -19,8 +19,10 @@ This project helps consolidate duplicate entries from multiple sellers into a cl
 
 ## **INSTALLATION**
 
-**PLEASE RUN THE REQUIREMENTS.TXT FILE INSIDE THE MAIN FOLDER IN BASH**
-**OPEN main.py AND RUN IT**
+**OPEN main.py AND RUN IT. IF IT DOES NOT OUTPUT "Enter the product name: ", PLEASE RUN IT ONCE AGAIN**
+
+**IF CODE SHOWS ERRORS, RUN THE requirements.txt FILE INSIDE THE MAIN FOLDER IN BASH**
+
 
 1. Clone the repository:
 ```bash
@@ -28,9 +30,10 @@ git clone https://github.com/ProMSan2305/google-duplicate-entry-merger.git
 cd google-duplicate-entry-merger
 ```
 2. Create a Python virtual environment and activate it: python3 -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+source venv/bin/activate
+# On Windows: venv\Scripts\activate
 
-3. Install dependencies:
+4. Install dependencies:
    pip install -r requirements.txt
 
 ## **USAGE**
