@@ -8,7 +8,7 @@ This project helps consolidate duplicate entries from multiple sellers into a cl
 
 ## **Features**
 
-- Scrapes Google Shopping product listings using **SerpAPI**.
+- Scrapes real-time Google Shopping product listings using **SerpAPI**.
 - Saves product details to **CSV** including name, price, store, and image URL.
 - Merges duplicates based on **text similarity** and **lowest price**.
 - Downloads product images for AI-based **visual similarity filtering**.
@@ -75,12 +75,12 @@ Pillow for image handling.
 
 
 ## **CODE**
-![image alt]()
+![image alt](https://github.com/ProMSan2305/google-duplicate-entry-merger/blob/9fe498d63720bfa9eee83ec155832083e57fc182/1code.png)
 ## **LISTING**
-![image alt]()
+![image alt](https://github.com/ProMSan2305/google-duplicate-entry-merger/blob/9fe498d63720bfa9eee83ec155832083e57fc182/2listing.png)
 ## **BACKEND**
-![image alt]()
+![image alt](https://github.com/ProMSan2305/google-duplicate-entry-merger/blob/9fe498d63720bfa9eee83ec155832083e57fc182/3backend.png)
 ## **.CSV**
-![image alt]()
+![image alt](https://github.com/ProMSan2305/google-duplicate-entry-merger/blob/9fe498d63720bfa9eee83ec155832083e57fc182/4csvfile.png)
 ## **IMAGES**
-![image alt]()
+![image alt](https://github.com/ProMSan2305/google-duplicate-entry-merger/blob/9fe498d63720bfa9eee83ec155832083e57fc182/5images.png)
