@@ -41,10 +41,15 @@ The script will:
 
 ## **REPOSITORY STRUCTURE**
 ├── main.py               # Main script
+
 ├── merge_products.py     # Script to merge duplicate products
+
 ├── requirements.txt
+
 ├── products.csv          # Output CSV (generated after running)
+
 ├── images/               # Downloaded images (generated after running)
+
 └── utils/                # Helper modules (if any)
 
 ## **HOW IT WORKS** 
