@@ -20,7 +20,7 @@ This project helps consolidate duplicate entries from multiple sellers into a cl
 ## **INSTALLATION**
 
 **PLEASE RUN THE REQUIREMENTS.TXT FILE INSIDE THE MAIN FOLDER IN BASH**
-**OPEN THE SECOND FILE python scrape_shopping.py AND RUN IT**
+**OPEN main.py AND RUN IT**
 
 1. Clone the repository:
 ```bash
