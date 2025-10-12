@@ -75,12 +75,12 @@ Pillow for image handling.
 
 
 ## **CODE**
-![image alt](https://github.com/ProMSan2305/google-duplicate-entry-merger/blob/8a89d054d0cea315a3840abe4833609df73935a4/1code.png)
+![image alt]()
 ## **LISTING**
-![image alt](https://github.com/ProMSan2305/google-duplicate-entry-merger/blob/8a89d054d0cea315a3840abe4833609df73935a4/2listing.png)
+![image alt]()
 ## **BACKEND**
-![image alt](https://github.com/ProMSan2305/google-duplicate-entry-merger/blob/8a89d054d0cea315a3840abe4833609df73935a4/3backend.png)
+![image alt]()
 ## **.CSV**
-![image alt](https://github.com/ProMSan2305/google-duplicate-entry-merger/blob/8a89d054d0cea315a3840abe4833609df73935a4/4csv.png)
+![image alt]()
 ## **IMAGES**
-![image alt](https://github.com/ProMSan2305/google-duplicate-entry-merger/blob/8a89d054d0cea315a3840abe4833609df73935a4/5images.png)
+![image alt]()
