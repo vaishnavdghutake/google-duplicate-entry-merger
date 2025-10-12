@@ -15,6 +15,8 @@ This project helps consolidate duplicate entries from multiple sellers into a cl
 - Groups visually similar products using **CLIP embeddings** and **FAISS** for fast similarity search.
 - Ready for further automation, reporting, or e-commerce analysis.
 
+- The code also contains scraping the images and storing the urls in the csv file, and the original idea was to integrate CLIP AI and add another layer of filtering the data through images too as previously it was only through text, but due to time constraints and having less knowledge about this stuff being in my first year, I could not complete the code.
+
 ---
 
 ## **INSTALLATION**
