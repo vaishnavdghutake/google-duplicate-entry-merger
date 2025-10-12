@@ -27,7 +27,8 @@ cd google-duplicate-entry-merger
 2. Create a Python virtual environment and activate it: python3 -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 
-3. Install dependencies: pip install -r requirements.txt
+3. Install dependencies:
+   pip install -r requirements.txt
 
 ## **USAGE**
 Run the main script: python main.py
@@ -38,7 +39,7 @@ The script will:
 3. Save product info to products.csv.
 4. Run merge_products.py to merge duplicates.
 
-## **REPOSITORT STRUCTURE**
+## **REPOSITORY STRUCTURE**
 ├── main.py               # Main script
 ├── merge_products.py     # Script to merge duplicate products
 ├── requirements.txt
