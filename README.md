@@ -31,9 +31,11 @@ This project helps consolidate duplicate entries from multiple sellers into a cl
 git clone https://github.com/ProMSan2305/google-duplicate-entry-merger.git
 cd google-duplicate-entry-merger
 ```
-2. Create a Python virtual environment and activate it: python3 -m venv venv
-source venv/bin/activate
-# On Windows: venv\Scripts\activate
+2. Create a Python virtual environment and activate it:
+   python3 -m venv venv
+   source venv/bin/activate
+   **On Windows:**
+   venv\Scripts\activate
 
 4. Install dependencies:
    pip install -r requirements.txt
