@@ -84,5 +84,3 @@ Pillow for image handling.
 ![image alt](https://github.com/ProMSan2305/google-duplicate-entry-merger/blob/9fe498d63720bfa9eee83ec155832083e57fc182/4csvfile.png)
 ## **IMAGES**
 ![image alt](https://github.com/ProMSan2305/google-duplicate-entry-merger/blob/9fe498d63720bfa9eee83ec155832083e57fc182/5images.png)
-### Certification
-![Participation Certificate](108125133_Participation Certificate 25.jpg)
